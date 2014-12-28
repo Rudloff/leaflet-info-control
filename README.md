@@ -1,7 +1,7 @@
 leaflet-info-control
 ====================
 
-A simple Leaflet control that display information about the map
+A simple Leaflet control that displays information about the map
 
 ##Example
 

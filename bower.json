@@ -2,7 +2,7 @@
     "name": "leaflet-info-control",
     "version": "0.1.0",
     "homepage": "https://github.com/Rudloff/leaflet-info-control",
-    "description": "A simple Leaflet control that display information about the map",
+    "description": "A simple Leaflet control that displays information about the map",
     "main": "InfoControl.js",
     "moduleType": [
         "globals"
