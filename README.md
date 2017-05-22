@@ -1,9 +1,9 @@
-leaflet-info-control
-====================
+# leaflet-info-control
 
 A simple Leaflet control that displays information about the map
 
-##Example
+## Example
+
 ```js
 /*global map, InfoControl*/
 map.addControl(new InfoControl({
