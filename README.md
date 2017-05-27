@@ -6,8 +6,9 @@ A simple Leaflet control that displays information about the map
 
 ```js
 /*global map, InfoControl*/
+/*jslint browser: true*/
 map.addControl(new InfoControl({
-    position: 'bottomright',
-    content: 'This map is awesome!'
+    position: "bottomright",
+    content: "This map is awesome!"
 }));
 ```
