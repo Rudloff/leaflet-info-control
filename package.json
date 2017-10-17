@@ -1,7 +1,7 @@
 {
   "name": "leaflet-info-control",
   "description": "A simple Leaflet control that displays information about the map",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Pierre Rudloff",
   "bugs": "https://github.com/Rudloff/leaflet-info-control/issues",
   "dependencies": {
