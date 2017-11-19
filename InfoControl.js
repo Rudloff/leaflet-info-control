@@ -1,6 +1,7 @@
 /*global L*/
 /*jslint browser: true, this: true*/
-var InfoControl = L.Control.extend({
+
+L.Control.InfoControl = L.Control.extend({
     initialize: function (options) {
         "use strict";
         L.Util.setOptions(this, options);
