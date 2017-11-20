@@ -1,5 +1,9 @@
-/*global L*/
+/*global L, window*/
 /*jslint browser: true, this: true*/
+
+if (typeof window !== "object") {
+    throw "Leaflet does not work outside a browser.";
+}
 
 L.Control.InfoControl = L.Control.extend({
     initialize: function (options) {
